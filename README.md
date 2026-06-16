@@ -1,2 +1,28 @@
-# 0d6e9487-grant-writing-management-cus
-Tired of losing track of stakeholder feedback and feature requests that could strengthen your next grant proposal? This Notion template turns scattered emails, meeting notes, and comments into a single, actionable board—so you never miss a critical insight again.  The Grant Writing &amp; Management Customer Feedback and Feature Request Board Notion Tem
+# Grant Writing & Management Customer Feedback and Feature Request Board Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRmcN5eTtaQAcVWavOd0j3S)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRmcN5eTtaQAcVWavOd0j3S)
+
